@@ -1,6 +1,6 @@
 # Change settings accordingly and rename file to "myconfig.py":
 
-server = "Server"
+server = "Server_Name_or_IP"
 database = "Database_Name"
 query = ("SELECT [ID]"
     ",[NAME]"
