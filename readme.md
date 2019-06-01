@@ -19,7 +19,7 @@ pwd = "password"
 
 This script needs the "pyodbc" dependency installed:
 
-> pip install odbc
+> pip install pyodbc
 
 or
 
